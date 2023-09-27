@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\7. LopCoLap_ExtensionMethod\obj\Debug\net6.0\7. LopCoLap_ExtensionMethod.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\7. LopCoLap_ExtensionMethod\obj\Debug\net6.0\7. LopCoLap_ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\7. LopCoLap_ExtensionMethod\obj\Debug\net6.0\7. LopCoLap_ExtensionMethod.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\7. LopCoLap_ExtensionMethod\obj\Debug\net6.0\7. LopCoLap_ExtensionMethod.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\7. LopCoLap_ExtensionMethod\obj\Debug\net6.0\7. LopCoLap_ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\7. LopCoLap_ExtensionMethod\bin\Debug\net6.0\7. LopCoLap_ExtensionMethod.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\7. LopCoLap_ExtensionMethod\bin\Debug\net6.0\7. LopCoLap_ExtensionMethod.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\7. LopCoLap_ExtensionMethod\bin\Debug\net6.0\7. LopCoLap_ExtensionMethod.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\7. LopCoLap_ExtensionMethod\bin\Debug\net6.0\7. LopCoLap_ExtensionMethod.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\7. LopCoLap_ExtensionMethod\bin\Debug\net6.0\7. LopCoLap_ExtensionMethod.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\7. LopCoLap_ExtensionMethod\obj\Debug\net6.0\7. LopCoLap_ExtensionMethod.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\7. LopCoLap_ExtensionMethod\obj\Debug\net6.0\refint\7. LopCoLap_ExtensionMethod.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\7. LopCoLap_ExtensionMethod\obj\Debug\net6.0\7. LopCoLap_ExtensionMethod.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\7. LopCoLap_ExtensionMethod\obj\Debug\net6.0\7. LopCoLap_ExtensionMethod.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\7. LopCoLap_ExtensionMethod\obj\Debug\net6.0\ref\7. LopCoLap_ExtensionMethod.dll

@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\5. Indexer\bin\Debug\net6.0\5. Indexer.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\5. Indexer\bin\Debug\net6.0\5. Indexer.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\5. Indexer\bin\Debug\net6.0\5. Indexer.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\5. Indexer\bin\Debug\net6.0\5. Indexer.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\5. Indexer\bin\Debug\net6.0\5. Indexer.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\5. Indexer\obj\Debug\net6.0\5. Indexer.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\5. Indexer\obj\Debug\net6.0\5. Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\5. Indexer\obj\Debug\net6.0\5. Indexer.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\5. Indexer\obj\Debug\net6.0\5. Indexer.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\5. Indexer\obj\Debug\net6.0\5. Indexer.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\5. Indexer\obj\Debug\net6.0\5. Indexer.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\5. Indexer\obj\Debug\net6.0\refint\5. Indexer.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\5. Indexer\obj\Debug\net6.0\5. Indexer.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\5. Indexer\obj\Debug\net6.0\5. Indexer.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\5. Indexer\obj\Debug\net6.0\ref\5. Indexer.dll

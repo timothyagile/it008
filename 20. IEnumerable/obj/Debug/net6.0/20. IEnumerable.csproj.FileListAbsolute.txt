@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\20. IEnumerable\bin\Debug\net6.0\20. IEnumerable.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\20. IEnumerable\bin\Debug\net6.0\20. IEnumerable.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\20. IEnumerable\bin\Debug\net6.0\20. IEnumerable.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\20. IEnumerable\bin\Debug\net6.0\20. IEnumerable.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\20. IEnumerable\bin\Debug\net6.0\20. IEnumerable.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\20. IEnumerable\obj\Debug\net6.0\20. IEnumerable.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\20. IEnumerable\obj\Debug\net6.0\20. IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\20. IEnumerable\obj\Debug\net6.0\20. IEnumerable.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\20. IEnumerable\obj\Debug\net6.0\20. IEnumerable.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\20. IEnumerable\obj\Debug\net6.0\20. IEnumerable.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\20. IEnumerable\obj\Debug\net6.0\20. IEnumerable.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\20. IEnumerable\obj\Debug\net6.0\refint\20. IEnumerable.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\20. IEnumerable\obj\Debug\net6.0\20. IEnumerable.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\20. IEnumerable\obj\Debug\net6.0\20. IEnumerable.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\20. IEnumerable\obj\Debug\net6.0\ref\20. IEnumerable.dll

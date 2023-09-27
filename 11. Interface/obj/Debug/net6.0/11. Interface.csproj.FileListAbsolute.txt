@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. Interface\bin\Debug\net6.0\11. Interface.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. Interface\bin\Debug\net6.0\11. Interface.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. Interface\bin\Debug\net6.0\11. Interface.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. Interface\bin\Debug\net6.0\11. Interface.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. Interface\bin\Debug\net6.0\11. Interface.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. Interface\obj\Debug\net6.0\11. Interface.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. Interface\obj\Debug\net6.0\11. Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. Interface\obj\Debug\net6.0\11. Interface.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. Interface\obj\Debug\net6.0\11. Interface.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. Interface\obj\Debug\net6.0\11. Interface.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. Interface\obj\Debug\net6.0\11. Interface.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. Interface\obj\Debug\net6.0\refint\11. Interface.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. Interface\obj\Debug\net6.0\11. Interface.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. Interface\obj\Debug\net6.0\11. Interface.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. Interface\obj\Debug\net6.0\ref\11. Interface.dll

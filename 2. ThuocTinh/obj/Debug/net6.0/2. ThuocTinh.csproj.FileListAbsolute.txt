@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2. ThuocTinh\bin\Debug\net6.0\2. ThuocTinh.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2. ThuocTinh\bin\Debug\net6.0\2. ThuocTinh.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2. ThuocTinh\bin\Debug\net6.0\2. ThuocTinh.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2. ThuocTinh\bin\Debug\net6.0\2. ThuocTinh.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2. ThuocTinh\bin\Debug\net6.0\2. ThuocTinh.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2. ThuocTinh\obj\Debug\net6.0\2. ThuocTinh.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2. ThuocTinh\obj\Debug\net6.0\2. ThuocTinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2. ThuocTinh\obj\Debug\net6.0\2. ThuocTinh.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2. ThuocTinh\obj\Debug\net6.0\2. ThuocTinh.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2. ThuocTinh\obj\Debug\net6.0\2. ThuocTinh.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2. ThuocTinh\obj\Debug\net6.0\2. ThuocTinh.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2. ThuocTinh\obj\Debug\net6.0\refint\2. ThuocTinh.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2. ThuocTinh\obj\Debug\net6.0\2. ThuocTinh.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2. ThuocTinh\obj\Debug\net6.0\2. ThuocTinh.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2. ThuocTinh\obj\Debug\net6.0\ref\2. ThuocTinh.dll

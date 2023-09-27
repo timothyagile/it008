@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\4. CollectionInitializer\bin\Debug\net6.0\4. CollectionInitializer.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\4. CollectionInitializer\bin\Debug\net6.0\4. CollectionInitializer.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\4. CollectionInitializer\bin\Debug\net6.0\4. CollectionInitializer.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\4. CollectionInitializer\bin\Debug\net6.0\4. CollectionInitializer.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\4. CollectionInitializer\bin\Debug\net6.0\4. CollectionInitializer.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\4. CollectionInitializer\obj\Debug\net6.0\4. CollectionInitializer.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\4. CollectionInitializer\obj\Debug\net6.0\4. CollectionInitializer.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\4. CollectionInitializer\obj\Debug\net6.0\4. CollectionInitializer.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\4. CollectionInitializer\obj\Debug\net6.0\4. CollectionInitializer.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\4. CollectionInitializer\obj\Debug\net6.0\4. CollectionInitializer.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\4. CollectionInitializer\obj\Debug\net6.0\4. CollectionInitializer.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\4. CollectionInitializer\obj\Debug\net6.0\refint\4. CollectionInitializer.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\4. CollectionInitializer\obj\Debug\net6.0\4. CollectionInitializer.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\4. CollectionInitializer\obj\Debug\net6.0\4. CollectionInitializer.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\4. CollectionInitializer\obj\Debug\net6.0\ref\4. CollectionInitializer.dll

@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\9. LopTrongLop\bin\Debug\net6.0\9. LopTrongLop.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\9. LopTrongLop\bin\Debug\net6.0\9. LopTrongLop.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\9. LopTrongLop\bin\Debug\net6.0\9. LopTrongLop.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\9. LopTrongLop\bin\Debug\net6.0\9. LopTrongLop.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\9. LopTrongLop\bin\Debug\net6.0\9. LopTrongLop.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\9. LopTrongLop\obj\Debug\net6.0\9. LopTrongLop.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\9. LopTrongLop\obj\Debug\net6.0\9. LopTrongLop.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\9. LopTrongLop\obj\Debug\net6.0\9. LopTrongLop.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\9. LopTrongLop\obj\Debug\net6.0\9. LopTrongLop.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\9. LopTrongLop\obj\Debug\net6.0\9. LopTrongLop.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\9. LopTrongLop\obj\Debug\net6.0\9. LopTrongLop.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\9. LopTrongLop\obj\Debug\net6.0\refint\9. LopTrongLop.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\9. LopTrongLop\obj\Debug\net6.0\9. LopTrongLop.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\9. LopTrongLop\obj\Debug\net6.0\9. LopTrongLop.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\9. LopTrongLop\obj\Debug\net6.0\ref\9. LopTrongLop.dll

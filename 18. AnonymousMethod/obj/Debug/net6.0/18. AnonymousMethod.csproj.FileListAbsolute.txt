@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\18. AnonymousMethod\obj\Debug\net6.0\18. AnonymousMethod.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\18. AnonymousMethod\obj\Debug\net6.0\18. AnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\18. AnonymousMethod\obj\Debug\net6.0\18. AnonymousMethod.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\18. AnonymousMethod\obj\Debug\net6.0\18. AnonymousMethod.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\18. AnonymousMethod\obj\Debug\net6.0\18. AnonymousMethod.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\18. AnonymousMethod\bin\Debug\net6.0\18. AnonymousMethod.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\18. AnonymousMethod\bin\Debug\net6.0\18. AnonymousMethod.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\18. AnonymousMethod\bin\Debug\net6.0\18. AnonymousMethod.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\18. AnonymousMethod\bin\Debug\net6.0\18. AnonymousMethod.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\18. AnonymousMethod\bin\Debug\net6.0\18. AnonymousMethod.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\18. AnonymousMethod\obj\Debug\net6.0\18. AnonymousMethod.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\18. AnonymousMethod\obj\Debug\net6.0\refint\18. AnonymousMethod.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\18. AnonymousMethod\obj\Debug\net6.0\18. AnonymousMethod.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\18. AnonymousMethod\obj\Debug\net6.0\18. AnonymousMethod.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\18. AnonymousMethod\obj\Debug\net6.0\ref\18. AnonymousMethod.dll

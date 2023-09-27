@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\10.0. NapChongToanTu\bin\Debug\net6.0\10.0. NapChongToanTu.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\10.0. NapChongToanTu\bin\Debug\net6.0\10.0. NapChongToanTu.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\10.0. NapChongToanTu\bin\Debug\net6.0\10.0. NapChongToanTu.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\10.0. NapChongToanTu\bin\Debug\net6.0\10.0. NapChongToanTu.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\10.0. NapChongToanTu\bin\Debug\net6.0\10.0. NapChongToanTu.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\10.0. NapChongToanTu\obj\Debug\net6.0\10.0. NapChongToanTu.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\10.0. NapChongToanTu\obj\Debug\net6.0\10.0. NapChongToanTu.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\10.0. NapChongToanTu\obj\Debug\net6.0\10.0. NapChongToanTu.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\10.0. NapChongToanTu\obj\Debug\net6.0\10.0. NapChongToanTu.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\10.0. NapChongToanTu\obj\Debug\net6.0\10.0. NapChongToanTu.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\10.0. NapChongToanTu\obj\Debug\net6.0\10.0. NapChongToanTu.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\10.0. NapChongToanTu\obj\Debug\net6.0\refint\10.0. NapChongToanTu.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\10.0. NapChongToanTu\obj\Debug\net6.0\10.0. NapChongToanTu.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\10.0. NapChongToanTu\obj\Debug\net6.0\10.0. NapChongToanTu.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\10.0. NapChongToanTu\obj\Debug\net6.0\ref\10.0. NapChongToanTu.dll

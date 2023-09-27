@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\15. DynamicBinding_Operator\obj\Debug\net6.0\15. DynamicBinding_Operator.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\15. DynamicBinding_Operator\obj\Debug\net6.0\15. DynamicBinding_Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\15. DynamicBinding_Operator\obj\Debug\net6.0\15. DynamicBinding_Operator.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\15. DynamicBinding_Operator\obj\Debug\net6.0\15. DynamicBinding_Operator.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\15. DynamicBinding_Operator\obj\Debug\net6.0\15. DynamicBinding_Operator.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\15. DynamicBinding_Operator\bin\Debug\net6.0\15. DynamicBinding_Operator.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\15. DynamicBinding_Operator\bin\Debug\net6.0\15. DynamicBinding_Operator.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\15. DynamicBinding_Operator\bin\Debug\net6.0\15. DynamicBinding_Operator.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\15. DynamicBinding_Operator\bin\Debug\net6.0\15. DynamicBinding_Operator.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\15. DynamicBinding_Operator\bin\Debug\net6.0\15. DynamicBinding_Operator.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\15. DynamicBinding_Operator\obj\Debug\net6.0\15. DynamicBinding_Operator.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\15. DynamicBinding_Operator\obj\Debug\net6.0\refint\15. DynamicBinding_Operator.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\15. DynamicBinding_Operator\obj\Debug\net6.0\15. DynamicBinding_Operator.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\15. DynamicBinding_Operator\obj\Debug\net6.0\15. DynamicBinding_Operator.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\15. DynamicBinding_Operator\obj\Debug\net6.0\ref\15. DynamicBinding_Operator.dll

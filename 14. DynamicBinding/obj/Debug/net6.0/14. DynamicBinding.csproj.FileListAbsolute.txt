@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\14. DynamicBinding\bin\Debug\net6.0\14. DynamicBinding.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\14. DynamicBinding\bin\Debug\net6.0\14. DynamicBinding.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\14. DynamicBinding\bin\Debug\net6.0\14. DynamicBinding.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\14. DynamicBinding\bin\Debug\net6.0\14. DynamicBinding.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\14. DynamicBinding\bin\Debug\net6.0\14. DynamicBinding.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\14. DynamicBinding\obj\Debug\net6.0\14. DynamicBinding.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\14. DynamicBinding\obj\Debug\net6.0\14. DynamicBinding.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\14. DynamicBinding\obj\Debug\net6.0\14. DynamicBinding.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\14. DynamicBinding\obj\Debug\net6.0\14. DynamicBinding.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\14. DynamicBinding\obj\Debug\net6.0\14. DynamicBinding.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\14. DynamicBinding\obj\Debug\net6.0\14. DynamicBinding.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\14. DynamicBinding\obj\Debug\net6.0\refint\14. DynamicBinding.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\14. DynamicBinding\obj\Debug\net6.0\14. DynamicBinding.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\14. DynamicBinding\obj\Debug\net6.0\14. DynamicBinding.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\14. DynamicBinding\obj\Debug\net6.0\ref\14. DynamicBinding.dll

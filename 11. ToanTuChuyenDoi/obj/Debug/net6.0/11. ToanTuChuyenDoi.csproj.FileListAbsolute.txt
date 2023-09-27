@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. ToanTuChuyenDoi\bin\Debug\net6.0\11. ToanTuChuyenDoi.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. ToanTuChuyenDoi\bin\Debug\net6.0\11. ToanTuChuyenDoi.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. ToanTuChuyenDoi\bin\Debug\net6.0\11. ToanTuChuyenDoi.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. ToanTuChuyenDoi\bin\Debug\net6.0\11. ToanTuChuyenDoi.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. ToanTuChuyenDoi\bin\Debug\net6.0\11. ToanTuChuyenDoi.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. ToanTuChuyenDoi\obj\Debug\net6.0\11. ToanTuChuyenDoi.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. ToanTuChuyenDoi\obj\Debug\net6.0\11. ToanTuChuyenDoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. ToanTuChuyenDoi\obj\Debug\net6.0\11. ToanTuChuyenDoi.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. ToanTuChuyenDoi\obj\Debug\net6.0\11. ToanTuChuyenDoi.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. ToanTuChuyenDoi\obj\Debug\net6.0\11. ToanTuChuyenDoi.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. ToanTuChuyenDoi\obj\Debug\net6.0\11. ToanTuChuyenDoi.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. ToanTuChuyenDoi\obj\Debug\net6.0\refint\11. ToanTuChuyenDoi.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. ToanTuChuyenDoi\obj\Debug\net6.0\11. ToanTuChuyenDoi.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. ToanTuChuyenDoi\obj\Debug\net6.0\11. ToanTuChuyenDoi.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\11. ToanTuChuyenDoi\obj\Debug\net6.0\ref\11. ToanTuChuyenDoi.dll

@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\1.1. KhaiBaoLop_TT_Truy_Cap\obj\Debug\net6.0\1.1. KhaiBaoLop_TT_Truy_Cap.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\1.1. KhaiBaoLop_TT_Truy_Cap\obj\Debug\net6.0\1.1. KhaiBaoLop_TT_Truy_Cap.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\1.1. KhaiBaoLop_TT_Truy_Cap\obj\Debug\net6.0\1.1. KhaiBaoLop_TT_Truy_Cap.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\1.1. KhaiBaoLop_TT_Truy_Cap\obj\Debug\net6.0\1.1. KhaiBaoLop_TT_Truy_Cap.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\1.1. KhaiBaoLop_TT_Truy_Cap\obj\Debug\net6.0\1.1. KhaiBaoLop_TT_Truy_Cap.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\1.1. KhaiBaoLop_TT_Truy_Cap\bin\Debug\net6.0\1.1. KhaiBaoLop_TT_Truy_Cap.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\1.1. KhaiBaoLop_TT_Truy_Cap\bin\Debug\net6.0\1.1. KhaiBaoLop_TT_Truy_Cap.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\1.1. KhaiBaoLop_TT_Truy_Cap\bin\Debug\net6.0\1.1. KhaiBaoLop_TT_Truy_Cap.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\1.1. KhaiBaoLop_TT_Truy_Cap\bin\Debug\net6.0\1.1. KhaiBaoLop_TT_Truy_Cap.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\1.1. KhaiBaoLop_TT_Truy_Cap\bin\Debug\net6.0\1.1. KhaiBaoLop_TT_Truy_Cap.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\1.1. KhaiBaoLop_TT_Truy_Cap\obj\Debug\net6.0\1.1. KhaiBaoLop_TT_Truy_Cap.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\1.1. KhaiBaoLop_TT_Truy_Cap\obj\Debug\net6.0\refint\1.1. KhaiBaoLop_TT_Truy_Cap.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\1.1. KhaiBaoLop_TT_Truy_Cap\obj\Debug\net6.0\1.1. KhaiBaoLop_TT_Truy_Cap.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\1.1. KhaiBaoLop_TT_Truy_Cap\obj\Debug\net6.0\1.1. KhaiBaoLop_TT_Truy_Cap.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\1.1. KhaiBaoLop_TT_Truy_Cap\obj\Debug\net6.0\ref\1.1. KhaiBaoLop_TT_Truy_Cap.dll

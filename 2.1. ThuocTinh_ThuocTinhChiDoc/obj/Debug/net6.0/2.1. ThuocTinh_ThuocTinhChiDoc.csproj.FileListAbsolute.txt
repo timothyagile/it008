@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2.1. ThuocTinh_ThuocTinhChiDoc\bin\Debug\net6.0\2.1. ThuocTinh_ThuocTinhChiDoc.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2.1. ThuocTinh_ThuocTinhChiDoc\bin\Debug\net6.0\2.1. ThuocTinh_ThuocTinhChiDoc.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2.1. ThuocTinh_ThuocTinhChiDoc\bin\Debug\net6.0\2.1. ThuocTinh_ThuocTinhChiDoc.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2.1. ThuocTinh_ThuocTinhChiDoc\bin\Debug\net6.0\2.1. ThuocTinh_ThuocTinhChiDoc.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2.1. ThuocTinh_ThuocTinhChiDoc\bin\Debug\net6.0\2.1. ThuocTinh_ThuocTinhChiDoc.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2.1. ThuocTinh_ThuocTinhChiDoc\obj\Debug\net6.0\2.1. ThuocTinh_ThuocTinhChiDoc.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2.1. ThuocTinh_ThuocTinhChiDoc\obj\Debug\net6.0\2.1. ThuocTinh_ThuocTinhChiDoc.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2.1. ThuocTinh_ThuocTinhChiDoc\obj\Debug\net6.0\2.1. ThuocTinh_ThuocTinhChiDoc.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2.1. ThuocTinh_ThuocTinhChiDoc\obj\Debug\net6.0\2.1. ThuocTinh_ThuocTinhChiDoc.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2.1. ThuocTinh_ThuocTinhChiDoc\obj\Debug\net6.0\2.1. ThuocTinh_ThuocTinhChiDoc.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2.1. ThuocTinh_ThuocTinhChiDoc\obj\Debug\net6.0\2.1. ThuocTinh_ThuocTinhChiDoc.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2.1. ThuocTinh_ThuocTinhChiDoc\obj\Debug\net6.0\refint\2.1. ThuocTinh_ThuocTinhChiDoc.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2.1. ThuocTinh_ThuocTinhChiDoc\obj\Debug\net6.0\2.1. ThuocTinh_ThuocTinhChiDoc.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2.1. ThuocTinh_ThuocTinhChiDoc\obj\Debug\net6.0\2.1. ThuocTinh_ThuocTinhChiDoc.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\2.1. ThuocTinh_ThuocTinhChiDoc\obj\Debug\net6.0\ref\2.1. ThuocTinh_ThuocTinhChiDoc.dll

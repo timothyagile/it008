@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\16.1. Delegate_Multicasting\bin\Debug\net6.0\16.1. Delegate_Multicasting.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\16.1. Delegate_Multicasting\bin\Debug\net6.0\16.1. Delegate_Multicasting.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\16.1. Delegate_Multicasting\bin\Debug\net6.0\16.1. Delegate_Multicasting.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\16.1. Delegate_Multicasting\bin\Debug\net6.0\16.1. Delegate_Multicasting.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\16.1. Delegate_Multicasting\bin\Debug\net6.0\16.1. Delegate_Multicasting.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\16.1. Delegate_Multicasting\obj\Debug\net6.0\16.1. Delegate_Multicasting.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\16.1. Delegate_Multicasting\obj\Debug\net6.0\16.1. Delegate_Multicasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\16.1. Delegate_Multicasting\obj\Debug\net6.0\16.1. Delegate_Multicasting.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\16.1. Delegate_Multicasting\obj\Debug\net6.0\16.1. Delegate_Multicasting.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\16.1. Delegate_Multicasting\obj\Debug\net6.0\16.1. Delegate_Multicasting.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\16.1. Delegate_Multicasting\obj\Debug\net6.0\16.1. Delegate_Multicasting.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\16.1. Delegate_Multicasting\obj\Debug\net6.0\refint\16.1. Delegate_Multicasting.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\16.1. Delegate_Multicasting\obj\Debug\net6.0\16.1. Delegate_Multicasting.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\16.1. Delegate_Multicasting\obj\Debug\net6.0\16.1. Delegate_Multicasting.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\16.1. Delegate_Multicasting\obj\Debug\net6.0\ref\16.1. Delegate_Multicasting.dll

@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\13.1. XLLoi_PhatBieuThrow\bin\Debug\net6.0\13.1. XLLoi_PhatBieuThrow.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\13.1. XLLoi_PhatBieuThrow\bin\Debug\net6.0\13.1. XLLoi_PhatBieuThrow.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\13.1. XLLoi_PhatBieuThrow\bin\Debug\net6.0\13.1. XLLoi_PhatBieuThrow.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\13.1. XLLoi_PhatBieuThrow\bin\Debug\net6.0\13.1. XLLoi_PhatBieuThrow.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\13.1. XLLoi_PhatBieuThrow\bin\Debug\net6.0\13.1. XLLoi_PhatBieuThrow.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\13.1. XLLoi_PhatBieuThrow\obj\Debug\net6.0\13.1. XLLoi_PhatBieuThrow.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\13.1. XLLoi_PhatBieuThrow\obj\Debug\net6.0\13.1. XLLoi_PhatBieuThrow.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\13.1. XLLoi_PhatBieuThrow\obj\Debug\net6.0\13.1. XLLoi_PhatBieuThrow.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\13.1. XLLoi_PhatBieuThrow\obj\Debug\net6.0\13.1. XLLoi_PhatBieuThrow.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\13.1. XLLoi_PhatBieuThrow\obj\Debug\net6.0\13.1. XLLoi_PhatBieuThrow.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\13.1. XLLoi_PhatBieuThrow\obj\Debug\net6.0\13.1. XLLoi_PhatBieuThrow.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\13.1. XLLoi_PhatBieuThrow\obj\Debug\net6.0\refint\13.1. XLLoi_PhatBieuThrow.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\13.1. XLLoi_PhatBieuThrow\obj\Debug\net6.0\13.1. XLLoi_PhatBieuThrow.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\13.1. XLLoi_PhatBieuThrow\obj\Debug\net6.0\13.1. XLLoi_PhatBieuThrow.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\13.1. XLLoi_PhatBieuThrow\obj\Debug\net6.0\ref\13.1. XLLoi_PhatBieuThrow.dll

@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.2. KeThua_PTOverride\bin\Debug\net6.0\6.2. KeThua_PTOverride.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.2. KeThua_PTOverride\bin\Debug\net6.0\6.2. KeThua_PTOverride.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.2. KeThua_PTOverride\bin\Debug\net6.0\6.2. KeThua_PTOverride.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.2. KeThua_PTOverride\bin\Debug\net6.0\6.2. KeThua_PTOverride.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.2. KeThua_PTOverride\bin\Debug\net6.0\6.2. KeThua_PTOverride.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.2. KeThua_PTOverride\obj\Debug\net6.0\6.2. KeThua_PTOverride.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.2. KeThua_PTOverride\obj\Debug\net6.0\6.2. KeThua_PTOverride.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.2. KeThua_PTOverride\obj\Debug\net6.0\6.2. KeThua_PTOverride.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.2. KeThua_PTOverride\obj\Debug\net6.0\6.2. KeThua_PTOverride.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.2. KeThua_PTOverride\obj\Debug\net6.0\6.2. KeThua_PTOverride.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.2. KeThua_PTOverride\obj\Debug\net6.0\6.2. KeThua_PTOverride.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.2. KeThua_PTOverride\obj\Debug\net6.0\refint\6.2. KeThua_PTOverride.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.2. KeThua_PTOverride\obj\Debug\net6.0\6.2. KeThua_PTOverride.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.2. KeThua_PTOverride\obj\Debug\net6.0\6.2. KeThua_PTOverride.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.2. KeThua_PTOverride\obj\Debug\net6.0\ref\6.2. KeThua_PTOverride.dll

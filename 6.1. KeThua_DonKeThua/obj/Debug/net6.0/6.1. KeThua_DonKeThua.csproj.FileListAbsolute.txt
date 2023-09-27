@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.1. KeThua_DonKeThua\bin\Debug\net6.0\6.1. KeThua_DonKeThua.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.1. KeThua_DonKeThua\bin\Debug\net6.0\6.1. KeThua_DonKeThua.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.1. KeThua_DonKeThua\bin\Debug\net6.0\6.1. KeThua_DonKeThua.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.1. KeThua_DonKeThua\bin\Debug\net6.0\6.1. KeThua_DonKeThua.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.1. KeThua_DonKeThua\bin\Debug\net6.0\6.1. KeThua_DonKeThua.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.1. KeThua_DonKeThua\obj\Debug\net6.0\6.1. KeThua_DonKeThua.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.1. KeThua_DonKeThua\obj\Debug\net6.0\6.1. KeThua_DonKeThua.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.1. KeThua_DonKeThua\obj\Debug\net6.0\6.1. KeThua_DonKeThua.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.1. KeThua_DonKeThua\obj\Debug\net6.0\6.1. KeThua_DonKeThua.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.1. KeThua_DonKeThua\obj\Debug\net6.0\6.1. KeThua_DonKeThua.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.1. KeThua_DonKeThua\obj\Debug\net6.0\6.1. KeThua_DonKeThua.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.1. KeThua_DonKeThua\obj\Debug\net6.0\refint\6.1. KeThua_DonKeThua.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.1. KeThua_DonKeThua\obj\Debug\net6.0\6.1. KeThua_DonKeThua.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.1. KeThua_DonKeThua\obj\Debug\net6.0\6.1. KeThua_DonKeThua.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\6.1. KeThua_DonKeThua\obj\Debug\net6.0\ref\6.1. KeThua_DonKeThua.dll

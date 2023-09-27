@@ -1,0 +1,15 @@
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\17. LambdaExpressions\bin\Debug\net6.0\19. LambdaExpressions.exe
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\17. LambdaExpressions\bin\Debug\net6.0\19. LambdaExpressions.deps.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\17. LambdaExpressions\bin\Debug\net6.0\19. LambdaExpressions.runtimeconfig.json
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\17. LambdaExpressions\bin\Debug\net6.0\19. LambdaExpressions.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\17. LambdaExpressions\bin\Debug\net6.0\19. LambdaExpressions.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\17. LambdaExpressions\obj\Debug\net6.0\19. LambdaExpressions.csproj.AssemblyReference.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\17. LambdaExpressions\obj\Debug\net6.0\19. LambdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\17. LambdaExpressions\obj\Debug\net6.0\19. LambdaExpressions.AssemblyInfoInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\17. LambdaExpressions\obj\Debug\net6.0\19. LambdaExpressions.AssemblyInfo.cs
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\17. LambdaExpressions\obj\Debug\net6.0\19. LambdaExpressions.csproj.CoreCompileInputs.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\17. LambdaExpressions\obj\Debug\net6.0\19. LambdaExpressions.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\17. LambdaExpressions\obj\Debug\net6.0\refint\19. LambdaExpressions.dll
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\17. LambdaExpressions\obj\Debug\net6.0\19. LambdaExpressions.pdb
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\17. LambdaExpressions\obj\Debug\net6.0\19. LambdaExpressions.genruntimeconfig.cache
+D:\tai_lieu_hoc_tap\LẬP TRÌNH TRỰC QUAN\Chuong2_NguyenPhucThinh_22521415\17. LambdaExpressions\obj\Debug\net6.0\ref\19. LambdaExpressions.dll
